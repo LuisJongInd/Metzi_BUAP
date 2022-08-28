@@ -12,3 +12,5 @@ Dr. Jose Fermi Guerrero Castellanos
 
 ## Evaluación 1:
 El propósito de esta evaluación es aplicar los fundamentos de ROS para realizar un algoritmo que permita la evasión de obstáculos para alcanzar una meta generada aleatoriamente.
+Link del video en Youtube:
+https://youtu.be/78vylmo6XSU

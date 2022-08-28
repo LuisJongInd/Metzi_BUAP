@@ -11,6 +11,6 @@ Asesor: <br>
 Dr. Jose Fermi Guerrero Castellanos
 
 <h3 style="text-align:center">Evaluación etapa 2</h3>
-El propósito de esta evaluación es aplicar los fundamentos de ROS para realizar un algoritmo que permita la evasión de obstáculos para alcanzar una meta generada aleatoriamente.
+El propósito de esta evaluación es aplicar los fundamentos de ROS para realizar un algoritmo que permita la evasión de obstáculos para alcanzar una meta generada aleatoriamente. <br>
 Link del video en Youtube:
 https://youtu.be/78vylmo6XSU

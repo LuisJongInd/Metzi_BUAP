@@ -1,7 +1,7 @@
 # Metzi BUAP
 En este repositorio se añade nuestro trabajo desempeñado en el Concurso Iberamericano de Robótica Espacial. Somos alumnos de la Facultad en Ciencias de la Electrónica en la Benemérita Universidad Autónoma de Puebla.
 
-Integrantes:
+Integrantes: <br>
 Luis Antonio Jonguitud Indalecio <br>
 Luis Yair Leal Ramos <br>
 Carlos Adolfo Reyes Trujillo <br>

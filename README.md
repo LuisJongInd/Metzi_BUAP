@@ -3,9 +3,9 @@ En este repositorio se añade nuestro trabajo desempeñado en el Concurso Iberam
 
 Integrantes:
 Luis Antonio Jonguitud Indalecio <br>
-Luis Yair Leal Ramos
-Carlos Adolfo Reyes Trujillo
-Francisco Josué Astudillo Cázarez
+Luis Yair Leal Ramos <br>
+Carlos Adolfo Reyes Trujillo <br>
+Francisco Josué Astudillo Cázarez <br>
 
 Asesor:
 Dr. Jose Fermi Guerrero Castellanos
